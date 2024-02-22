@@ -50,8 +50,3 @@
   4) write folder_name or file_name
 
 8. 
-
-
-<Concept>
-Local: Tree(Working Directory + Staging Area(index) + Repository
-Remote: Repository
